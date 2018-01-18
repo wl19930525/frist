@@ -14,10 +14,10 @@ public class MainActivity extends AppCompatActivity {
         String str1= "aaaaaaa";
         String str2= "aaaaaaa";
         String str3= "aaaaaaa";
+        String str122= "aaaaaaa";
+        String str1222= "aaaaaaa";
+        String str1223= "aaaaaaa";
+        String str1212= "aaaaaaa";
 
-        String str12= "aaaaaaa";
-        String str13= "aaaaaaa";
-        String str14= "aaaaaaa";
-        String str15= "aaaaaaa";
     }
 }
