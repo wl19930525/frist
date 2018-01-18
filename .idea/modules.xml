@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://D:\AndroidProject\frist1\Frist.iml" filepath="D:\AndroidProject\frist1\Frist.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\AndroidProject\frist1\app\app.iml" filepath="D:\AndroidProject\frist1\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/frist1.iml" filepath="$PROJECT_DIR$/.idea/frist1.iml" />
     </modules>
   </component>
