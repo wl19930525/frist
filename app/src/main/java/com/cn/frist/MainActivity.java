@@ -14,17 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String str1= "aaaaaaa";
         String str2= "aaaaaaa";
         String str3= "aaaaaaa";
-        String str122= "aaaaaaa";
-        String str1222= "aaaaaaa";
-        String str1223= "aaaaaaa";
-        String str1212= "aaaaaaa";
-        String str12122= "aaaaaaa";
 
-
-
-        //新的分支----------英雄联盟----------------
-        String str55= "aaaaaaa";
-        String str66= "aaaaaaa";
-        String str77= "aaaaaaa";
     }
 }
