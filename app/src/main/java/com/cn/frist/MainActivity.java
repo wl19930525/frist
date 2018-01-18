@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         String str1222= "aaaaaaa";
         String str1223= "aaaaaaa";
         String str1212= "aaaaaaa";
+        String str12122= "aaaaaaa";
 
 
 
