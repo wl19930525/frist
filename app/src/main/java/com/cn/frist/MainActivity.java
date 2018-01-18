@@ -14,5 +14,13 @@ public class MainActivity extends AppCompatActivity {
         String str1= "aaaaaaa";
         String str2= "aaaaaaa";
         String str3= "aaaaaaa";
+
+
+        //新的数据
+        String str22= "aaaaaaa";
+        String str12= "aaaaaaa";
+        String str123= "aaaaaaa";
+        String str121= "aaaaaaa";
+        String str122= "aaaaaaa";
     }
 }
