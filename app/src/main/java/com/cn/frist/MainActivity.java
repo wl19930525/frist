@@ -19,5 +19,11 @@ public class MainActivity extends AppCompatActivity {
         String str1223= "aaaaaaa";
         String str1212= "aaaaaaa";
 
+
+
+        //新的分支----------英雄联盟----------------
+        String str55= "aaaaaaa";
+        String str66= "aaaaaaa";
+        String str77= "aaaaaaa";
     }
 }
